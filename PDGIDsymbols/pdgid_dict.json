@@ -1,0 +1,4102 @@
+{
+    "1": [
+        "d",
+        false
+    ],
+    "-1": [
+        "anti-d",
+        false
+    ],
+    "2": [
+        "u",
+        false
+    ],
+    "-2": [
+        "anti-u",
+        false
+    ],
+    "3": [
+        "s",
+        false
+    ],
+    "-3": [
+        "anti-s",
+        false
+    ],
+    "4": [
+        "c",
+        false
+    ],
+    "-4": [
+        "anti-c",
+        false
+    ],
+    "5": [
+        "b",
+        false
+    ],
+    "-5": [
+        "anti-b",
+        false
+    ],
+    "6": [
+        "t",
+        false
+    ],
+    "-6": [
+        "anti-t",
+        false
+    ],
+    "7": [
+        "b'",
+        false
+    ],
+    "-7": [
+        "anti-b'",
+        false
+    ],
+    "8": [
+        "t'",
+        false
+    ],
+    "-8": [
+        "anti-t'",
+        false
+    ],
+    "11": [
+        "e-",
+        false
+    ],
+    "-11": [
+        "e+",
+        false
+    ],
+    "12": [
+        "nu_e",
+        false
+    ],
+    "-12": [
+        "anti-nu_e",
+        false
+    ],
+    "13": [
+        "mu-",
+        false
+    ],
+    "-13": [
+        "mu+",
+        false
+    ],
+    "14": [
+        "nu_mu",
+        false
+    ],
+    "-14": [
+        "anti-nu_mu",
+        false
+    ],
+    "15": [
+        "tau-",
+        false
+    ],
+    "-15": [
+        "tau+",
+        false
+    ],
+    "16": [
+        "nu_tau",
+        false
+    ],
+    "-16": [
+        "anti-nu_tau",
+        false
+    ],
+    "17": [
+        "L-",
+        false
+    ],
+    "-17": [
+        "L+",
+        false
+    ],
+    "18": [
+        "nu_L",
+        false
+    ],
+    "-18": [
+        "anti-nu_L",
+        false
+    ],
+    "21": [
+        "g",
+        true
+    ],
+    "22": [
+        "gamma",
+        true
+    ],
+    "23": [
+        "Z0",
+        true
+    ],
+    "24": [
+        "W+",
+        false
+    ],
+    "-24": [
+        "W-",
+        false
+    ],
+    "25": [
+        "Higgs0",
+        true
+    ],
+    "32": [
+        "Z'0",
+        true
+    ],
+    "33": [
+        "Z''0",
+        true
+    ],
+    "34": [
+        "W'+",
+        false
+    ],
+    "-34": [
+        "W'-",
+        false
+    ],
+    "35": [
+        "Higgs'0",
+        "doodoo"
+    ],
+    "36": [
+        "A0",
+        "doodoo"
+    ],
+    "37": [
+        "Higgs+",
+        "doodoo"
+    ],
+    "-37": [
+        "Higgs-",
+        "doodoo"
+    ],
+    "38": [
+        "Higgs++",
+        "doodoo"
+    ],
+    "-38": [
+        "Higgs--",
+        "doodoo"
+    ],
+    "39": [
+        "unknown",
+        "doodoo"
+    ],
+    "40": [
+        "a0",
+        "doodoo"
+    ],
+    "41": [
+        "R0",
+        "doodoo"
+    ],
+    "-41": [
+        "anti-R0",
+        "doodoo"
+    ],
+    "42": [
+        "unknown",
+        "doodoo"
+    ],
+    "-42": [
+        "unknown",
+        "doodoo"
+    ],
+    "43": [
+        "Xu0",
+        "doodoo"
+    ],
+    "44": [
+        "Xu+",
+        "doodoo"
+    ],
+    "-44": [
+        "Xu-",
+        "doodoo"
+    ],
+    "81": [
+        "specflav",
+        "doodoo"
+    ],
+    "82": [
+        "rndmflav",
+        "doodoo"
+    ],
+    "-82": [
+        "anti-rndmflav",
+        "doodoo"
+    ],
+    "83": [
+        "phasespa",
+        "doodoo"
+    ],
+    "84": [
+        "c-hadron",
+        "doodoo"
+    ],
+    "-84": [
+        "anti-c-hadron",
+        "doodoo"
+    ],
+    "85": [
+        "b-hadron",
+        "doodoo"
+    ],
+    "-85": [
+        "anti-b-hadron",
+        "doodoo"
+    ],
+    "86": [
+        "t-hadron",
+        "doodoo"
+    ],
+    "-86": [
+        "anti-t-hadron",
+        "doodoo"
+    ],
+    "87": [
+        "b'-hadron",
+        "doodoo"
+    ],
+    "-87": [
+        "anti-b'-hadron",
+        "doodoo"
+    ],
+    "88": [
+        "junction",
+        "doodoo"
+    ],
+    "90": [
+        "system",
+        "doodoo"
+    ],
+    "91": [
+        "cluster",
+        "doodoo"
+    ],
+    "92": [
+        "string",
+        "doodoo"
+    ],
+    "93": [
+        "indep",
+        "doodoo"
+    ],
+    "94": [
+        "CMshower",
+        "doodoo"
+    ],
+    "95": [
+        "SPHEaxis",
+        "doodoo"
+    ],
+    "96": [
+        "THRUaxis",
+        "doodoo"
+    ],
+    "97": [
+        "CLUSjet",
+        "doodoo"
+    ],
+    "98": [
+        "CELLjet",
+        "doodoo"
+    ],
+    "111": [
+        "pi0",
+        true
+    ],
+    "113": [
+        "rho0",
+        true
+    ],
+    "115": [
+        "a_20",
+        true
+    ],
+    "117": [
+        "rho_3(1690)0",
+        true
+    ],
+    "119": [
+        "a_4(1970)0",
+        true
+    ],
+    "130": [
+        "K_L0",
+        true
+    ],
+    "150": [
+        "B0L",
+        "doodoo"
+    ],
+    "211": [
+        "pi+",
+        false
+    ],
+    "-211": [
+        "pi-",
+        false
+    ],
+    "213": [
+        "rho+",
+        false
+    ],
+    "-213": [
+        "rho-",
+        false
+    ],
+    "215": [
+        "a_2+",
+        false
+    ],
+    "-215": [
+        "a_2-",
+        false
+    ],
+    "217": [
+        "rho_3(1690)+",
+        false
+    ],
+    "-217": [
+        "rho_3(1690)-",
+        false
+    ],
+    "219": [
+        "a_4(1970)+",
+        false
+    ],
+    "-219": [
+        "a_4(1970)-",
+        false
+    ],
+    "221": [
+        "eta",
+        true
+    ],
+    "223": [
+        "omega",
+        true
+    ],
+    "225": [
+        "f_2",
+        true
+    ],
+    "227": [
+        "omega_3(1670)",
+        true
+    ],
+    "229": [
+        "f_4(2050)",
+        true
+    ],
+    "310": [
+        "K_S0",
+        true
+    ],
+    "311": [
+        "K0",
+        false
+    ],
+    "-311": [
+        "anti-K0",
+        false
+    ],
+    "313": [
+        "K*0",
+        false
+    ],
+    "-313": [
+        "anti-K*0",
+        false
+    ],
+    "315": [
+        "K_2*0",
+        false
+    ],
+    "-315": [
+        "anti-K_2*0",
+        false
+    ],
+    "317": [
+        "K_3*0",
+        false
+    ],
+    "-317": [
+        "anti-K_3*0",
+        false
+    ],
+    "319": [
+        "K_4*0",
+        false
+    ],
+    "-319": [
+        "anti-K_4*0",
+        false
+    ],
+    "321": [
+        "K+",
+        false
+    ],
+    "-321": [
+        "K-",
+        false
+    ],
+    "323": [
+        "K*+",
+        false
+    ],
+    "-323": [
+        "K*-",
+        false
+    ],
+    "325": [
+        "K_2*+",
+        false
+    ],
+    "-325": [
+        "K_2*-",
+        false
+    ],
+    "327": [
+        "K_3*+",
+        false
+    ],
+    "-327": [
+        "K_3*-",
+        false
+    ],
+    "329": [
+        "K_4*+",
+        false
+    ],
+    "-329": [
+        "K_4*-",
+        false
+    ],
+    "331": [
+        "eta'",
+        true
+    ],
+    "333": [
+        "phi",
+        true
+    ],
+    "335": [
+        "f'_2",
+        true
+    ],
+    "337": [
+        "phi_3(1850)",
+        true
+    ],
+    "350": [
+        "B_s0L",
+        "doodoo"
+    ],
+    "411": [
+        "D+",
+        false
+    ],
+    "-411": [
+        "D-",
+        false
+    ],
+    "413": [
+        "D*+",
+        false
+    ],
+    "-413": [
+        "D*-",
+        false
+    ],
+    "415": [
+        "D_2*+",
+        false
+    ],
+    "-415": [
+        "D_2*-",
+        false
+    ],
+    "421": [
+        "D0",
+        false
+    ],
+    "-421": [
+        "anti-D0",
+        false
+    ],
+    "423": [
+        "D*0",
+        false
+    ],
+    "-423": [
+        "anti-D*0",
+        false
+    ],
+    "425": [
+        "D_2*0",
+        false
+    ],
+    "-425": [
+        "anti-D_2*0",
+        false
+    ],
+    "431": [
+        "D_s+",
+        false
+    ],
+    "-431": [
+        "D_s-",
+        false
+    ],
+    "433": [
+        "D_s*+",
+        false
+    ],
+    "-433": [
+        "D_s*-",
+        false
+    ],
+    "435": [
+        "D_s2*+",
+        false
+    ],
+    "-435": [
+        "D_s2*-",
+        false
+    ],
+    "441": [
+        "eta_c",
+        true
+    ],
+    "443": [
+        "J/psi",
+        true
+    ],
+    "445": [
+        "chi_c2",
+        true
+    ],
+    "510": [
+        "B0H",
+        "doodoo"
+    ],
+    "511": [
+        "B0",
+        false
+    ],
+    "-511": [
+        "anti-B0",
+        false
+    ],
+    "513": [
+        "B*0",
+        false
+    ],
+    "-513": [
+        "anti-B*0",
+        false
+    ],
+    "515": [
+        "B_2*0",
+        false
+    ],
+    "-515": [
+        "anti-B_2*0",
+        false
+    ],
+    "521": [
+        "B+",
+        false
+    ],
+    "-521": [
+        "B-",
+        false
+    ],
+    "523": [
+        "B*+",
+        false
+    ],
+    "-523": [
+        "B*-",
+        false
+    ],
+    "525": [
+        "B_2*+",
+        false
+    ],
+    "-525": [
+        "B_2*-",
+        false
+    ],
+    "530": [
+        "B_s0H",
+        "doodoo"
+    ],
+    "531": [
+        "B_s0",
+        false
+    ],
+    "-531": [
+        "anti-B_s0",
+        false
+    ],
+    "533": [
+        "B_s*0",
+        false
+    ],
+    "-533": [
+        "anti-B_s*0",
+        false
+    ],
+    "535": [
+        "B_s2*0",
+        false
+    ],
+    "-535": [
+        "anti-B_s2*0",
+        false
+    ],
+    "541": [
+        "B_c+",
+        false
+    ],
+    "-541": [
+        "B_c-",
+        false
+    ],
+    "543": [
+        "B_c*+",
+        "doodoo"
+    ],
+    "-543": [
+        "B_c*-",
+        "doodoo"
+    ],
+    "545": [
+        "B_c2*+",
+        "doodoo"
+    ],
+    "-545": [
+        "B_c2*-",
+        "doodoo"
+    ],
+    "551": [
+        "eta_b",
+        true
+    ],
+    "553": [
+        "Upsilon",
+        true
+    ],
+    "555": [
+        "chi_b2",
+        true
+    ],
+    "557": [
+        "Upsilon_3(1D)",
+        "doodoo"
+    ],
+    "1103": [
+        "dd_1",
+        false
+    ],
+    "-1103": [
+        "anti-dd_1",
+        false
+    ],
+    "1112": [
+        "Delta(1620)-",
+        false
+    ],
+    "-1112": [
+        "anti-Delta(1620)+",
+        false
+    ],
+    "1114": [
+        "Delta-",
+        false
+    ],
+    "-1114": [
+        "anti-Delta+",
+        false
+    ],
+    "1116": [
+        "Delta(1905)-",
+        false
+    ],
+    "-1116": [
+        "anti-Delta(1905)+",
+        false
+    ],
+    "1118": [
+        "Delta(1950)-",
+        false
+    ],
+    "-1118": [
+        "anti-Delta(1950)+",
+        false
+    ],
+    "1212": [
+        "Delta(1620)0",
+        false
+    ],
+    "-1212": [
+        "anti-Delta(1620)0",
+        false
+    ],
+    "1214": [
+        "N(1520)0",
+        false
+    ],
+    "-1214": [
+        "anti-N(1520)0",
+        false
+    ],
+    "1216": [
+        "Delta(1905)0",
+        false
+    ],
+    "-1216": [
+        "anti-Delta(1905)0",
+        false
+    ],
+    "1218": [
+        "N(2190)0",
+        false
+    ],
+    "-1218": [
+        "anti-N(2190)0",
+        false
+    ],
+    "2101": [
+        "ud_0",
+        false
+    ],
+    "-2101": [
+        "anti-ud_0",
+        false
+    ],
+    "2103": [
+        "ud_1",
+        false
+    ],
+    "-2103": [
+        "anti-ud_1",
+        false
+    ],
+    "2112": [
+        "n0",
+        false
+    ],
+    "-2112": [
+        "anti-n0",
+        false
+    ],
+    "2114": [
+        "Delta0",
+        false
+    ],
+    "-2114": [
+        "anti-Delta0",
+        false
+    ],
+    "2116": [
+        "N(1675)0",
+        false
+    ],
+    "-2116": [
+        "anti-N(1675)0",
+        false
+    ],
+    "2118": [
+        "Delta(1950)0",
+        false
+    ],
+    "-2118": [
+        "anti-Delta(1950)0",
+        false
+    ],
+    "2122": [
+        "Delta(1620)+",
+        false
+    ],
+    "-2122": [
+        "anti-Delta(1620)-",
+        false
+    ],
+    "2124": [
+        "N(1520)+",
+        false
+    ],
+    "-2124": [
+        "anti-N(1520)-",
+        false
+    ],
+    "2126": [
+        "Delta(1905)+",
+        false
+    ],
+    "-2126": [
+        "anti-Delta(1905)-",
+        false
+    ],
+    "2128": [
+        "N(2190)+",
+        false
+    ],
+    "-2128": [
+        "anti-N(2190)-",
+        false
+    ],
+    "2203": [
+        "uu_1",
+        false
+    ],
+    "-2203": [
+        "anti-uu_1",
+        false
+    ],
+    "2212": [
+        "p+",
+        false
+    ],
+    "-2212": [
+        "anti-p-",
+        false
+    ],
+    "2214": [
+        "Delta+",
+        false
+    ],
+    "-2214": [
+        "anti-Delta-",
+        false
+    ],
+    "2216": [
+        "N(1675)+",
+        false
+    ],
+    "-2216": [
+        "anti-N(1675)-",
+        false
+    ],
+    "2218": [
+        "Delta(1950)+",
+        false
+    ],
+    "-2218": [
+        "anti-Delta(1950)-",
+        false
+    ],
+    "2222": [
+        "Delta(1620)++",
+        false
+    ],
+    "-2222": [
+        "anti-Delta(1620)--",
+        false
+    ],
+    "2224": [
+        "Delta++",
+        false
+    ],
+    "-2224": [
+        "anti-Delta--",
+        false
+    ],
+    "2226": [
+        "Delta(1905)++",
+        false
+    ],
+    "-2226": [
+        "anti-Delta(1905)--",
+        false
+    ],
+    "2228": [
+        "Delta(1950)++",
+        false
+    ],
+    "-2228": [
+        "anti-Delta(1950)--",
+        false
+    ],
+    "3101": [
+        "sd_0",
+        false
+    ],
+    "-3101": [
+        "anti-sd_0",
+        false
+    ],
+    "3103": [
+        "sd_1",
+        false
+    ],
+    "-3103": [
+        "anti-sd_1",
+        false
+    ],
+    "3112": [
+        "Sigma-",
+        false
+    ],
+    "-3112": [
+        "anti-Sigma+",
+        false
+    ],
+    "3114": [
+        "Sigma*-",
+        false
+    ],
+    "-3114": [
+        "anti-Sigma*+",
+        false
+    ],
+    "3116": [
+        "Sigma(1775)-",
+        false
+    ],
+    "-3116": [
+        "anti-Sigma(1775)+",
+        false
+    ],
+    "3118": [
+        "Sigma(2030)-",
+        false
+    ],
+    "-3118": [
+        "anti-Sigma(2030)+",
+        false
+    ],
+    "3122": [
+        "Lambda0",
+        false
+    ],
+    "-3122": [
+        "anti-Lambda0",
+        false
+    ],
+    "3124": [
+        "Lambda(1520)0",
+        false
+    ],
+    "-3124": [
+        "anti-Lambda(1520)0",
+        false
+    ],
+    "3126": [
+        "Lambda(1820)0",
+        false
+    ],
+    "-3126": [
+        "anti-Lambda(1820)0",
+        false
+    ],
+    "3128": [
+        "Lambda(2100)0",
+        false
+    ],
+    "-3128": [
+        "anti-Lambda(2100)0",
+        false
+    ],
+    "3201": [
+        "su_0",
+        false
+    ],
+    "-3201": [
+        "anti-su_0",
+        false
+    ],
+    "3203": [
+        "su_1",
+        false
+    ],
+    "-3203": [
+        "anti-su_1",
+        false
+    ],
+    "3212": [
+        "Sigma0",
+        false
+    ],
+    "-3212": [
+        "anti-Sigma0",
+        false
+    ],
+    "3214": [
+        "Sigma*0",
+        false
+    ],
+    "-3214": [
+        "anti-Sigma*0",
+        false
+    ],
+    "3216": [
+        "Sigma(1775)0",
+        false
+    ],
+    "-3216": [
+        "anti-Sigma(1775)0",
+        false
+    ],
+    "3218": [
+        "Sigma(2030)0",
+        false
+    ],
+    "-3218": [
+        "anti-Sigma(2030)0",
+        false
+    ],
+    "3222": [
+        "Sigma+",
+        false
+    ],
+    "-3222": [
+        "anti-Sigma-",
+        false
+    ],
+    "3224": [
+        "Sigma*+",
+        false
+    ],
+    "-3224": [
+        "anti-Sigma*-",
+        false
+    ],
+    "3226": [
+        "Sigma(1775)+",
+        false
+    ],
+    "-3226": [
+        "anti-Sigma(1775)-",
+        false
+    ],
+    "3228": [
+        "Sigma(2030)+",
+        false
+    ],
+    "-3228": [
+        "anti-Sigma(2030)-",
+        false
+    ],
+    "3303": [
+        "ss_1",
+        false
+    ],
+    "-3303": [
+        "anti-ss_1",
+        false
+    ],
+    "3312": [
+        "Xi-",
+        false
+    ],
+    "-3312": [
+        "anti-Xi+",
+        false
+    ],
+    "3314": [
+        "Xi*-",
+        false
+    ],
+    "-3314": [
+        "anti-Xi*+",
+        false
+    ],
+    "3322": [
+        "Xi0",
+        false
+    ],
+    "-3322": [
+        "anti-Xi0",
+        false
+    ],
+    "3324": [
+        "Xi*0",
+        false
+    ],
+    "-3324": [
+        "anti-Xi*0",
+        false
+    ],
+    "3334": [
+        "Omega-",
+        false
+    ],
+    "-3334": [
+        "anti-Omega+",
+        false
+    ],
+    "4101": [
+        "cd_0",
+        false
+    ],
+    "-4101": [
+        "anti-cd_0",
+        false
+    ],
+    "4103": [
+        "cd_1",
+        false
+    ],
+    "-4103": [
+        "anti-cd_1",
+        false
+    ],
+    "4112": [
+        "Sigma_c0",
+        false
+    ],
+    "-4112": [
+        "anti-Sigma_c0",
+        false
+    ],
+    "4114": [
+        "Sigma_c*0",
+        false
+    ],
+    "-4114": [
+        "anti-Sigma_c*0",
+        false
+    ],
+    "4122": [
+        "Lambda_c+",
+        false
+    ],
+    "-4122": [
+        "anti-Lambda_c-",
+        false
+    ],
+    "4132": [
+        "Xi_c0",
+        false
+    ],
+    "-4132": [
+        "anti-Xi_c0",
+        false
+    ],
+    "4201": [
+        "cu_0",
+        false
+    ],
+    "-4201": [
+        "anti-cu_0",
+        false
+    ],
+    "4203": [
+        "cu_1",
+        false
+    ],
+    "-4203": [
+        "anti-cu_1",
+        false
+    ],
+    "4212": [
+        "Sigma_c+",
+        false
+    ],
+    "-4212": [
+        "anti-Sigma_c-",
+        false
+    ],
+    "4214": [
+        "Sigma_c*+",
+        false
+    ],
+    "-4214": [
+        "anti-Sigma_c*-",
+        false
+    ],
+    "4222": [
+        "Sigma_c++",
+        false
+    ],
+    "-4222": [
+        "anti-Sigma_c--",
+        false
+    ],
+    "4224": [
+        "Sigma_c*++",
+        false
+    ],
+    "-4224": [
+        "anti-Sigma_c*--",
+        false
+    ],
+    "4232": [
+        "Xi_c+",
+        false
+    ],
+    "-4232": [
+        "anti-Xi_c-",
+        false
+    ],
+    "4301": [
+        "cs_0",
+        false
+    ],
+    "-4301": [
+        "anti-cs_0",
+        false
+    ],
+    "4303": [
+        "cs_1",
+        false
+    ],
+    "-4303": [
+        "anti-cs_1",
+        false
+    ],
+    "4312": [
+        "Xi'_c0",
+        false
+    ],
+    "-4312": [
+        "anti-Xi'_c0",
+        false
+    ],
+    "4314": [
+        "Xi_c*0",
+        false
+    ],
+    "-4314": [
+        "anti-Xi_c*0",
+        false
+    ],
+    "4322": [
+        "Xi'_c+",
+        false
+    ],
+    "-4322": [
+        "anti-Xi'_c-",
+        false
+    ],
+    "4324": [
+        "Xi_c*+",
+        false
+    ],
+    "-4324": [
+        "anti-Xi_c*-",
+        false
+    ],
+    "4332": [
+        "Omega_c0",
+        false
+    ],
+    "-4332": [
+        "anti-Omega_c0",
+        false
+    ],
+    "4334": [
+        "Omega_c*0",
+        false
+    ],
+    "-4334": [
+        "anti-Omega_c*0",
+        false
+    ],
+    "4403": [
+        "cc_1",
+        false
+    ],
+    "-4403": [
+        "anti-cc_1",
+        false
+    ],
+    "4412": [
+        "Xi_cc+",
+        "doodoo"
+    ],
+    "-4412": [
+        "anti-Xi_cc-",
+        "doodoo"
+    ],
+    "4414": [
+        "Xi_cc*+",
+        "doodoo"
+    ],
+    "-4414": [
+        "anti-Xi_cc*-",
+        "doodoo"
+    ],
+    "4422": [
+        "Xi_cc++",
+        "doodoo"
+    ],
+    "-4422": [
+        "anti-Xi_cc--",
+        "doodoo"
+    ],
+    "4424": [
+        "Xi_cc*++",
+        "doodoo"
+    ],
+    "-4424": [
+        "anti-Xi_cc*--",
+        "doodoo"
+    ],
+    "4432": [
+        "Omega_cc+",
+        "doodoo"
+    ],
+    "-4432": [
+        "anti-Omega_cc-",
+        "doodoo"
+    ],
+    "4434": [
+        "Omega_cc*+",
+        "doodoo"
+    ],
+    "-4434": [
+        "anti-Omega_cc*-",
+        "doodoo"
+    ],
+    "4444": [
+        "Omega_ccc*++",
+        "doodoo"
+    ],
+    "-4444": [
+        "anti-Omega_ccc*--",
+        "doodoo"
+    ],
+    "5101": [
+        "bd_0",
+        false
+    ],
+    "-5101": [
+        "anti-bd_0",
+        false
+    ],
+    "5103": [
+        "bd_1",
+        false
+    ],
+    "-5103": [
+        "anti-bd_1",
+        false
+    ],
+    "5112": [
+        "Sigma_b-",
+        false
+    ],
+    "-5112": [
+        "anti-Sigma_b+",
+        false
+    ],
+    "5114": [
+        "Sigma_b*-",
+        false
+    ],
+    "-5114": [
+        "anti-Sigma_b*+",
+        false
+    ],
+    "5122": [
+        "Lambda_b0",
+        false
+    ],
+    "-5122": [
+        "anti-Lambda_b0",
+        false
+    ],
+    "5124": [
+        "Lambda_b(5920)0",
+        "doodoo"
+    ],
+    "-5124": [
+        "anti-Lambda_b(5920)0",
+        "doodoo"
+    ],
+    "5132": [
+        "Xi_b-",
+        false
+    ],
+    "-5132": [
+        "anti-Xi_b+",
+        false
+    ],
+    "5142": [
+        "Xi_bc0",
+        "doodoo"
+    ],
+    "-5142": [
+        "anti-Xi_bc0",
+        "doodoo"
+    ],
+    "5201": [
+        "bu_0",
+        false
+    ],
+    "-5201": [
+        "anti-bu_0",
+        false
+    ],
+    "5203": [
+        "bu_1",
+        false
+    ],
+    "-5203": [
+        "anti-bu_1",
+        false
+    ],
+    "5212": [
+        "Sigma_b0",
+        "doodoo"
+    ],
+    "-5212": [
+        "anti-Sigma_b0",
+        "doodoo"
+    ],
+    "5214": [
+        "Sigma_b*0",
+        "doodoo"
+    ],
+    "-5214": [
+        "anti-Sigma_b*0",
+        "doodoo"
+    ],
+    "5222": [
+        "Sigma_b+",
+        false
+    ],
+    "-5222": [
+        "anti-Sigma_b-",
+        false
+    ],
+    "5224": [
+        "Sigma_b*+",
+        false
+    ],
+    "-5224": [
+        "anti-Sigma_b*-",
+        false
+    ],
+    "5232": [
+        "Xi_b0",
+        false
+    ],
+    "-5232": [
+        "anti-Xi_b0",
+        false
+    ],
+    "5242": [
+        "Xi_bc+",
+        "doodoo"
+    ],
+    "-5242": [
+        "anti-Xi_bc-",
+        "doodoo"
+    ],
+    "5301": [
+        "bs_0",
+        false
+    ],
+    "-5301": [
+        "anti-bs_0",
+        false
+    ],
+    "5303": [
+        "bs_1",
+        false
+    ],
+    "-5303": [
+        "anti-bs_1",
+        false
+    ],
+    "5312": [
+        "Xi'_b-",
+        "doodoo"
+    ],
+    "-5312": [
+        "anti-Xi'_b+",
+        "doodoo"
+    ],
+    "5314": [
+        "Xi_b*-",
+        "doodoo"
+    ],
+    "-5314": [
+        "anti-Xi_b*+",
+        "doodoo"
+    ],
+    "5322": [
+        "Xi'_b0",
+        "doodoo"
+    ],
+    "-5322": [
+        "anti-Xi'_b0",
+        "doodoo"
+    ],
+    "5324": [
+        "Xi_b*0",
+        "doodoo"
+    ],
+    "-5324": [
+        "anti-Xi_b*0",
+        "doodoo"
+    ],
+    "5332": [
+        "Omega_b-",
+        false
+    ],
+    "-5332": [
+        "anti-Omega_b+",
+        false
+    ],
+    "5334": [
+        "Omega_b*-",
+        "doodoo"
+    ],
+    "-5334": [
+        "anti-Omega_b*+",
+        "doodoo"
+    ],
+    "5342": [
+        "Omega_bc0",
+        "doodoo"
+    ],
+    "-5342": [
+        "anti-Omega_bc0",
+        "doodoo"
+    ],
+    "5401": [
+        "bc_0",
+        false
+    ],
+    "-5401": [
+        "anti-bc_0",
+        false
+    ],
+    "5403": [
+        "bc_1",
+        false
+    ],
+    "-5403": [
+        "anti-bc_1",
+        false
+    ],
+    "5412": [
+        "Xi'_bc0",
+        "doodoo"
+    ],
+    "-5412": [
+        "anti-Xi'_bc0",
+        "doodoo"
+    ],
+    "5414": [
+        "Xi_bc*0",
+        "doodoo"
+    ],
+    "-5414": [
+        "anti-Xi_bc*0",
+        "doodoo"
+    ],
+    "5422": [
+        "Xi'_bc+",
+        "doodoo"
+    ],
+    "-5422": [
+        "anti-Xi'_bc-",
+        "doodoo"
+    ],
+    "5424": [
+        "Xi_bc*+",
+        "doodoo"
+    ],
+    "-5424": [
+        "anti-Xi_bc*-",
+        "doodoo"
+    ],
+    "5432": [
+        "Omega'_bc0",
+        "doodoo"
+    ],
+    "-5432": [
+        "anti-Omega'_bc0",
+        "doodoo"
+    ],
+    "5434": [
+        "Omega_bc*0",
+        "doodoo"
+    ],
+    "-5434": [
+        "anti-Omega_bc*0",
+        "doodoo"
+    ],
+    "5442": [
+        "Omega_bcc+",
+        "doodoo"
+    ],
+    "-5442": [
+        "anti-Omega_bcc-",
+        "doodoo"
+    ],
+    "5444": [
+        "Omega_bcc*+",
+        "doodoo"
+    ],
+    "-5444": [
+        "anti-Omega_bcc*-",
+        "doodoo"
+    ],
+    "5503": [
+        "bb_1",
+        false
+    ],
+    "-5503": [
+        "anti-bb_1",
+        false
+    ],
+    "5512": [
+        "Xi_bb-",
+        "doodoo"
+    ],
+    "-5512": [
+        "anti-Xi_bb+",
+        "doodoo"
+    ],
+    "5514": [
+        "Xi_bb*-",
+        "doodoo"
+    ],
+    "-5514": [
+        "anti-Xi_bb*+",
+        "doodoo"
+    ],
+    "5522": [
+        "Xi_bb0",
+        "doodoo"
+    ],
+    "-5522": [
+        "anti-Xi_bb0",
+        "doodoo"
+    ],
+    "5524": [
+        "Xi_bb*0",
+        "doodoo"
+    ],
+    "-5524": [
+        "anti-Xi_bb*0",
+        "doodoo"
+    ],
+    "5532": [
+        "Omega_bb-",
+        "doodoo"
+    ],
+    "-5532": [
+        "anti-Omega_bb+",
+        "doodoo"
+    ],
+    "5534": [
+        "Omega_bb*-",
+        "doodoo"
+    ],
+    "-5534": [
+        "anti-Omega_bb*+",
+        "doodoo"
+    ],
+    "5542": [
+        "Omega_bbc0",
+        "doodoo"
+    ],
+    "-5542": [
+        "anti-Omega_bbc0",
+        "doodoo"
+    ],
+    "5544": [
+        "Omega_bbc*0",
+        "doodoo"
+    ],
+    "-5544": [
+        "anti-Omega_bbc*0",
+        "doodoo"
+    ],
+    "5554": [
+        "Omega_bbb-",
+        "doodoo"
+    ],
+    "-5554": [
+        "anti-Omega_bbb+",
+        "doodoo"
+    ],
+    "10022": [
+        "vpho",
+        "doodoo"
+    ],
+    "10111": [
+        "a_0(1450)0",
+        true
+    ],
+    "10113": [
+        "b_10",
+        true
+    ],
+    "10115": [
+        "pi_2(1670)0",
+        true
+    ],
+    "10211": [
+        "a_0(1450)+",
+        false
+    ],
+    "-10211": [
+        "a_0(1450)-",
+        false
+    ],
+    "10213": [
+        "b_1+",
+        false
+    ],
+    "-10213": [
+        "b_1-",
+        false
+    ],
+    "10215": [
+        "pi_2(1670)+",
+        false
+    ],
+    "-10215": [
+        "pi_2(1670)-",
+        false
+    ],
+    "10221": [
+        "f'_0",
+        true
+    ],
+    "10223": [
+        "h_1",
+        true
+    ],
+    "10225": [
+        "eta_2(1645)",
+        true
+    ],
+    "10311": [
+        "K_0*0",
+        false
+    ],
+    "-10311": [
+        "anti-K_0*0",
+        false
+    ],
+    "10313": [
+        "K_10",
+        false
+    ],
+    "-10313": [
+        "anti-K_10",
+        false
+    ],
+    "10315": [
+        "K_2(1770)0",
+        false
+    ],
+    "-10315": [
+        "anti-K_2(1770)0",
+        false
+    ],
+    "10321": [
+        "K_0*+",
+        false
+    ],
+    "-10321": [
+        "K_0*-",
+        false
+    ],
+    "10323": [
+        "K_1+",
+        false
+    ],
+    "-10323": [
+        "K_1-",
+        false
+    ],
+    "10325": [
+        "K_2(1770)+",
+        false
+    ],
+    "-10325": [
+        "K_2(1770)-",
+        false
+    ],
+    "10331": [
+        "f_0(1710)",
+        true
+    ],
+    "10333": [
+        "h'_1",
+        true
+    ],
+    "10335": [
+        "eta_2(1870)",
+        true
+    ],
+    "10411": [
+        "D_0*+",
+        false
+    ],
+    "-10411": [
+        "D_0*-",
+        false
+    ],
+    "10413": [
+        "D_1+",
+        false
+    ],
+    "-10413": [
+        "D_1-",
+        false
+    ],
+    "10421": [
+        "D_0*0",
+        false
+    ],
+    "-10421": [
+        "anti-D_0*0",
+        false
+    ],
+    "10423": [
+        "D_10",
+        false
+    ],
+    "-10423": [
+        "anti-D_10",
+        false
+    ],
+    "10431": [
+        "D_s0*+",
+        false
+    ],
+    "-10431": [
+        "D_s0*-",
+        false
+    ],
+    "10433": [
+        "D'_s1+",
+        false
+    ],
+    "-10433": [
+        "D'_s1-",
+        false
+    ],
+    "10441": [
+        "chi_c0",
+        true
+    ],
+    "10443": [
+        "h_c",
+        true
+    ],
+    "10511": [
+        "B_0*0",
+        "doodoo"
+    ],
+    "-10511": [
+        "anti-B_0*0",
+        "doodoo"
+    ],
+    "10513": [
+        "B_10",
+        "doodoo"
+    ],
+    "-10513": [
+        "anti-B_10",
+        "doodoo"
+    ],
+    "10521": [
+        "B_0*+",
+        "doodoo"
+    ],
+    "-10521": [
+        "B_0*-",
+        "doodoo"
+    ],
+    "10523": [
+        "B_1+",
+        "doodoo"
+    ],
+    "-10523": [
+        "B_1-",
+        "doodoo"
+    ],
+    "10531": [
+        "B_s0*0",
+        "doodoo"
+    ],
+    "-10531": [
+        "anti-B_s0*0",
+        "doodoo"
+    ],
+    "10533": [
+        "B_s10",
+        "doodoo"
+    ],
+    "-10533": [
+        "anti-B_s10",
+        "doodoo"
+    ],
+    "10541": [
+        "B_c0*+",
+        "doodoo"
+    ],
+    "-10541": [
+        "B_c0*-",
+        "doodoo"
+    ],
+    "10543": [
+        "B_c1+",
+        "doodoo"
+    ],
+    "-10543": [
+        "B_c1-",
+        "doodoo"
+    ],
+    "10551": [
+        "chi_b0",
+        true
+    ],
+    "10553": [
+        "h_b",
+        true
+    ],
+    "10555": [
+        "eta_b2(1D)",
+        "doodoo"
+    ],
+    "11112": [
+        "Delta(1900)-",
+        false
+    ],
+    "-11112": [
+        "anti-Delta(1900)+",
+        false
+    ],
+    "11114": [
+        "Delta(1700)-",
+        false
+    ],
+    "-11114": [
+        "anti-Delta(1700)+",
+        false
+    ],
+    "11116": [
+        "Delta(1930)-",
+        false
+    ],
+    "-11116": [
+        "anti-Delta(1930)+",
+        false
+    ],
+    "11212": [
+        "Delta(1900)0",
+        false
+    ],
+    "-11212": [
+        "anti-Delta(1900)0",
+        false
+    ],
+    "11216": [
+        "Delta(1930)0",
+        false
+    ],
+    "-11216": [
+        "anti-Delta(1930)0",
+        false
+    ],
+    "12112": [
+        "N(1440)0",
+        false
+    ],
+    "-12112": [
+        "anti-N(1440)0",
+        false
+    ],
+    "12114": [
+        "Delta(1700)0",
+        false
+    ],
+    "-12114": [
+        "anti-Delta(1700)0",
+        false
+    ],
+    "12116": [
+        "N(1680)0",
+        false
+    ],
+    "-12116": [
+        "anti-N(1680)0",
+        false
+    ],
+    "12118": [
+        "N(1990)0",
+        "doodoo"
+    ],
+    "-12118": [
+        "anti-N(1990)0",
+        "doodoo"
+    ],
+    "12122": [
+        "Delta(1900)+",
+        false
+    ],
+    "-12122": [
+        "anti-Delta(1900)-",
+        false
+    ],
+    "12126": [
+        "Delta(1930)+",
+        false
+    ],
+    "-12126": [
+        "anti-Delta(1930)-",
+        false
+    ],
+    "12212": [
+        "N(1440)+",
+        false
+    ],
+    "-12212": [
+        "anti-N(1440)-",
+        false
+    ],
+    "12214": [
+        "Delta(1700)+",
+        false
+    ],
+    "-12214": [
+        "anti-Delta(1700)-",
+        false
+    ],
+    "12216": [
+        "N(1680)+",
+        false
+    ],
+    "-12216": [
+        "anti-N(1680)-",
+        false
+    ],
+    "12218": [
+        "N(1990)+",
+        "doodoo"
+    ],
+    "-12218": [
+        "anti-N(1990)-",
+        "doodoo"
+    ],
+    "12222": [
+        "Delta(1900)++",
+        false
+    ],
+    "-12222": [
+        "anti-Delta(1900)--",
+        false
+    ],
+    "12224": [
+        "Delta(1700)++",
+        false
+    ],
+    "-12224": [
+        "anti-Delta(1700)--",
+        false
+    ],
+    "12226": [
+        "Delta(1930)++",
+        false
+    ],
+    "-12226": [
+        "anti-Delta(1930)--",
+        false
+    ],
+    "13112": [
+        "Sigma(1660)-",
+        false
+    ],
+    "-13112": [
+        "anti-Sigma(1660)+",
+        false
+    ],
+    "13114": [
+        "Sigma(1670)-",
+        false
+    ],
+    "-13114": [
+        "anti-Sigma(1670)+",
+        false
+    ],
+    "13116": [
+        "Sigma(1915)-",
+        false
+    ],
+    "-13116": [
+        "anti-Sigma(1915)+",
+        false
+    ],
+    "13122": [
+        "Lambda(1405)0",
+        false
+    ],
+    "-13122": [
+        "anti-Lambda(1405)0",
+        false
+    ],
+    "13124": [
+        "Lambda(1690)0",
+        false
+    ],
+    "-13124": [
+        "anti-Lambda(1690)0",
+        false
+    ],
+    "13126": [
+        "Lambda(1830)0",
+        false
+    ],
+    "-13126": [
+        "anti-Lambda(1830)0",
+        false
+    ],
+    "13212": [
+        "Sigma(1660)0",
+        false
+    ],
+    "-13212": [
+        "anti-Sigma(1660)0",
+        false
+    ],
+    "13214": [
+        "Sigma(1670)0",
+        false
+    ],
+    "-13214": [
+        "anti-Sigma(1670)0",
+        false
+    ],
+    "13216": [
+        "Sigma(1915)0",
+        false
+    ],
+    "-13216": [
+        "anti-Sigma(1915)0",
+        false
+    ],
+    "13222": [
+        "Sigma(1660)+",
+        false
+    ],
+    "-13222": [
+        "anti-Sigma(1660)-",
+        false
+    ],
+    "13224": [
+        "Sigma(1670)+",
+        false
+    ],
+    "-13224": [
+        "anti-Sigma(1670)-",
+        false
+    ],
+    "13226": [
+        "Sigma(1915)+",
+        false
+    ],
+    "-13226": [
+        "anti-Sigma(1915)-",
+        false
+    ],
+    "13314": [
+        "Xi(1820)-",
+        false
+    ],
+    "-13314": [
+        "anti-Xi(1820)+",
+        false
+    ],
+    "13324": [
+        "Xi(1820)0",
+        false
+    ],
+    "-13324": [
+        "anti-Xi(1820)0",
+        false
+    ],
+    "14122": [
+        "Lambda_c(2593)+",
+        false
+    ],
+    "-14122": [
+        "anti-Lambda_c(2593)-",
+        false
+    ],
+    "15122": [
+        "Lambda_b(5912)0",
+        "doodoo"
+    ],
+    "-15122": [
+        "anti-Lambda_b(5912)0",
+        "doodoo"
+    ],
+    "20022": [
+        "Cerenkov",
+        "doodoo"
+    ],
+    "20113": [
+        "a_10",
+        true
+    ],
+    "20213": [
+        "a_1+",
+        false
+    ],
+    "-20213": [
+        "a_1-",
+        false
+    ],
+    "20223": [
+        "f_1",
+        true
+    ],
+    "20313": [
+        "K'_10",
+        false
+    ],
+    "-20313": [
+        "anti-K'_10",
+        false
+    ],
+    "20315": [
+        "K_2(1820)0",
+        false
+    ],
+    "-20315": [
+        "anti-K_2(1820)0",
+        false
+    ],
+    "20323": [
+        "K'_1+",
+        false
+    ],
+    "-20323": [
+        "K'_1-",
+        false
+    ],
+    "20325": [
+        "K_2(1820)+",
+        false
+    ],
+    "-20325": [
+        "K_2(1820)-",
+        false
+    ],
+    "20333": [
+        "f'_1",
+        true
+    ],
+    "20413": [
+        "D'_1+",
+        "doodoo"
+    ],
+    "-20413": [
+        "D'_1-",
+        "doodoo"
+    ],
+    "20423": [
+        "D'_10",
+        false
+    ],
+    "-20423": [
+        "anti-D'_10",
+        false
+    ],
+    "20433": [
+        "D_s1+",
+        false
+    ],
+    "-20433": [
+        "D_s1-",
+        false
+    ],
+    "20443": [
+        "chi_c1",
+        true
+    ],
+    "20513": [
+        "B'_10",
+        "doodoo"
+    ],
+    "-20513": [
+        "anti-B'_10",
+        "doodoo"
+    ],
+    "20523": [
+        "B'_1+",
+        "doodoo"
+    ],
+    "-20523": [
+        "B'_1-",
+        "doodoo"
+    ],
+    "20533": [
+        "B'_s10",
+        "doodoo"
+    ],
+    "-20533": [
+        "anti-B'_s10",
+        "doodoo"
+    ],
+    "20543": [
+        "B'_c1+",
+        "doodoo"
+    ],
+    "-20543": [
+        "B'_c1-",
+        "doodoo"
+    ],
+    "20553": [
+        "chi_b1",
+        true
+    ],
+    "20555": [
+        "Upsilon_2(1D)",
+        true
+    ],
+    "21112": [
+        "Delta(1910)-",
+        false
+    ],
+    "-21112": [
+        "anti-Delta(1910)+",
+        false
+    ],
+    "21114": [
+        "Delta(1920)-",
+        false
+    ],
+    "-21114": [
+        "anti-Delta(1920)+",
+        false
+    ],
+    "21212": [
+        "Delta(1910)0",
+        false
+    ],
+    "-21212": [
+        "anti-Delta(1910)0",
+        false
+    ],
+    "21214": [
+        "N(1700)0",
+        false
+    ],
+    "-21214": [
+        "anti-N(1700)0",
+        false
+    ],
+    "22112": [
+        "N(1535)0",
+        false
+    ],
+    "-22112": [
+        "anti-N(1535)0",
+        false
+    ],
+    "22114": [
+        "Delta(1920)0",
+        false
+    ],
+    "-22114": [
+        "anti-Delta(1920)0",
+        false
+    ],
+    "22122": [
+        "Delta(1910)+",
+        false
+    ],
+    "-22122": [
+        "anti-Delta(1910)-",
+        false
+    ],
+    "22124": [
+        "N(1700)+",
+        false
+    ],
+    "-22124": [
+        "anti-N(1700)-",
+        false
+    ],
+    "22212": [
+        "N(1535)+",
+        false
+    ],
+    "-22212": [
+        "anti-N(1535)-",
+        false
+    ],
+    "22214": [
+        "Delta(1920)+",
+        false
+    ],
+    "-22214": [
+        "anti-Delta(1920)-",
+        false
+    ],
+    "22222": [
+        "Delta(1910)++",
+        false
+    ],
+    "-22222": [
+        "anti-Delta(1910)--",
+        false
+    ],
+    "22224": [
+        "Delta(1920)++",
+        false
+    ],
+    "-22224": [
+        "anti-Delta(1920)--",
+        false
+    ],
+    "23112": [
+        "Sigma(1750)-",
+        false
+    ],
+    "-23112": [
+        "anti-Sigma(1750)+",
+        false
+    ],
+    "23114": [
+        "Sigma(1940)-",
+        false
+    ],
+    "-23114": [
+        "anti-Sigma(1940)+",
+        false
+    ],
+    "23122": [
+        "Lambda(1600)0",
+        false
+    ],
+    "-23122": [
+        "anti-Lambda(1600)0",
+        false
+    ],
+    "23124": [
+        "Lambda(1890)0",
+        false
+    ],
+    "-23124": [
+        "anti-Lambda(1890)0",
+        false
+    ],
+    "23126": [
+        "Lambda(2110)0",
+        false
+    ],
+    "-23126": [
+        "anti-Lambda(2110)0",
+        false
+    ],
+    "23212": [
+        "Sigma(1750)0",
+        false
+    ],
+    "-23212": [
+        "anti-Sigma(1750)0",
+        false
+    ],
+    "23214": [
+        "Sigma(1940)0",
+        false
+    ],
+    "-23214": [
+        "anti-Sigma(1940)0",
+        false
+    ],
+    "23222": [
+        "Sigma(1750)+",
+        false
+    ],
+    "-23222": [
+        "anti-Sigma(1750)-",
+        false
+    ],
+    "23224": [
+        "Sigma(1940)+",
+        false
+    ],
+    "-23224": [
+        "anti-Sigma(1940)-",
+        false
+    ],
+    "30113": [
+        "rho(3S)0",
+        true
+    ],
+    "30213": [
+        "rho(3S)+",
+        false
+    ],
+    "-30213": [
+        "rho(3S)-",
+        false
+    ],
+    "30223": [
+        "omega(1650)",
+        true
+    ],
+    "30313": [
+        "K''*0",
+        false
+    ],
+    "-30313": [
+        "anti-K''*0",
+        false
+    ],
+    "30323": [
+        "K''*+",
+        false
+    ],
+    "-30323": [
+        "K''*-",
+        false
+    ],
+    "30343": [
+        "Xsd",
+        "doodoo"
+    ],
+    "-30343": [
+        "anti-Xsd",
+        "doodoo"
+    ],
+    "30353": [
+        "Xsu",
+        "doodoo"
+    ],
+    "-30353": [
+        "anti-Xsu",
+        "doodoo"
+    ],
+    "30363": [
+        "Xss",
+        "doodoo"
+    ],
+    "-30363": [
+        "anti-Xss",
+        "doodoo"
+    ],
+    "30443": [
+        "psi(3770)",
+        true
+    ],
+    "30553": [
+        "Upsilon_1(1D)",
+        "doodoo"
+    ],
+    "31114": [
+        "Delta(1600)-",
+        false
+    ],
+    "-31114": [
+        "anti-Delta(1600)+",
+        false
+    ],
+    "31214": [
+        "N(1720)0",
+        false
+    ],
+    "-31214": [
+        "anti-N(1720)0",
+        false
+    ],
+    "32112": [
+        "N(1650)0",
+        false
+    ],
+    "-32112": [
+        "anti-N(1650)0",
+        false
+    ],
+    "32114": [
+        "Delta(1600)0",
+        false
+    ],
+    "-32114": [
+        "anti-Delta(1600)0",
+        false
+    ],
+    "32124": [
+        "N(1720)+",
+        false
+    ],
+    "-32124": [
+        "anti-N(1720)-",
+        false
+    ],
+    "32212": [
+        "N(1650)+",
+        false
+    ],
+    "-32212": [
+        "anti-N(1650)-",
+        false
+    ],
+    "32214": [
+        "Delta(1600)+",
+        false
+    ],
+    "-32214": [
+        "anti-Delta(1600)-",
+        false
+    ],
+    "32224": [
+        "Delta(1600)++",
+        false
+    ],
+    "-32224": [
+        "anti-Delta(1600)--",
+        false
+    ],
+    "33122": [
+        "Lambda(1670)0",
+        false
+    ],
+    "-33122": [
+        "anti-Lambda(1670)0",
+        false
+    ],
+    "41214": [
+        "N(1900)0",
+        "doodoo"
+    ],
+    "-41214": [
+        "anti-N(1900)0",
+        "doodoo"
+    ],
+    "42112": [
+        "N(1710)0",
+        false
+    ],
+    "-42112": [
+        "anti-N(1710)0",
+        false
+    ],
+    "42124": [
+        "N(1900)+",
+        "doodoo"
+    ],
+    "-42124": [
+        "anti-N(1900)-",
+        "doodoo"
+    ],
+    "42212": [
+        "N(1710)+",
+        false
+    ],
+    "-42212": [
+        "anti-N(1710)-",
+        false
+    ],
+    "43122": [
+        "Lambda(1800)0",
+        false
+    ],
+    "-43122": [
+        "anti-Lambda(1800)0",
+        false
+    ],
+    "52114": [
+        "N(2090)0",
+        "doodoo"
+    ],
+    "-52114": [
+        "anti-N(2090)0",
+        "doodoo"
+    ],
+    "52214": [
+        "N(2090)+",
+        "doodoo"
+    ],
+    "-52214": [
+        "anti-N(2090)-",
+        "doodoo"
+    ],
+    "53122": [
+        "Lambda(1810)0",
+        false
+    ],
+    "-53122": [
+        "anti-Lambda(1810)0",
+        false
+    ],
+    "100111": [
+        "pi(2S)0",
+        true
+    ],
+    "100113": [
+        "rho(2S)0",
+        true
+    ],
+    "100211": [
+        "pi(2S)+",
+        false
+    ],
+    "-100211": [
+        "pi(2S)-",
+        false
+    ],
+    "100213": [
+        "rho(2S)+",
+        false
+    ],
+    "-100213": [
+        "rho(2S)-",
+        false
+    ],
+    "100221": [
+        "eta(2S)",
+        true
+    ],
+    "100223": [
+        "omega(2S)",
+        true
+    ],
+    "100311": [
+        "K(1460)0",
+        "doodoo"
+    ],
+    "-100311": [
+        "anti-K(1460)0",
+        "doodoo"
+    ],
+    "100313": [
+        "K'*0",
+        false
+    ],
+    "-100313": [
+        "anti-K'*0",
+        false
+    ],
+    "100321": [
+        "K(1460)+",
+        false
+    ],
+    "-100321": [
+        "K(1460)-",
+        false
+    ],
+    "100323": [
+        "K'*+",
+        false
+    ],
+    "-100323": [
+        "K'*-",
+        false
+    ],
+    "100331": [
+        "eta(1475)",
+        true
+    ],
+    "100333": [
+        "phi(1680)",
+        true
+    ],
+    "100411": [
+        "D(2S)+",
+        "doodoo"
+    ],
+    "-100411": [
+        "D(2S)-",
+        "doodoo"
+    ],
+    "100413": [
+        "D*(2S)+",
+        "doodoo"
+    ],
+    "-100413": [
+        "D*(2S)-",
+        "doodoo"
+    ],
+    "100421": [
+        "D(2S)0",
+        "doodoo"
+    ],
+    "-100421": [
+        "anti-D(2S)0",
+        "doodoo"
+    ],
+    "100423": [
+        "D*(2S)0",
+        "doodoo"
+    ],
+    "-100423": [
+        "anti-D*(2S)0",
+        "doodoo"
+    ],
+    "100441": [
+        "eta_c(2S)",
+        true
+    ],
+    "100443": [
+        "psi(2S)",
+        true
+    ],
+    "100445": [
+        "chi_c2(2P)",
+        true
+    ],
+    "100551": [
+        "eta_b(2S)",
+        "doodoo"
+    ],
+    "100553": [
+        "Upsilon(2S)",
+        true
+    ],
+    "100555": [
+        "chi_b2(2P)",
+        true
+    ],
+    "100557": [
+        "Upsilon_3(2D)",
+        "doodoo"
+    ],
+    "103112": [
+        "Sigma(2250)-",
+        "doodoo"
+    ],
+    "-103112": [
+        "anti-Sigma(2250)+",
+        "doodoo"
+    ],
+    "103212": [
+        "Sigma(2250)0",
+        "doodoo"
+    ],
+    "-103212": [
+        "anti-Sigma(2250)0",
+        "doodoo"
+    ],
+    "103222": [
+        "Sigma(2250)+",
+        "doodoo"
+    ],
+    "-103222": [
+        "anti-Sigma(2250)-",
+        "doodoo"
+    ],
+    "103316": [
+        "Xi(1950)-",
+        false
+    ],
+    "-103316": [
+        "anti-Xi(1950)+",
+        false
+    ],
+    "103326": [
+        "Xi(1950)0",
+        false
+    ],
+    "-103326": [
+        "anti-Xi(1950)0",
+        false
+    ],
+    "104122": [
+        "Lambda_c(2625)+",
+        false
+    ],
+    "-104122": [
+        "anti-Lambda_c(2625)-",
+        false
+    ],
+    "104312": [
+        "Xi_c(2815)0",
+        false
+    ],
+    "-104312": [
+        "anti-Xi_c(2815)0",
+        false
+    ],
+    "104314": [
+        "Xi_c(2790)0",
+        false
+    ],
+    "-104314": [
+        "anti-Xi_c(2790)0",
+        false
+    ],
+    "104322": [
+        "Xi_c(2815)+",
+        false
+    ],
+    "-104322": [
+        "anti-Xi_c(2815)-",
+        false
+    ],
+    "104324": [
+        "Xi_c(2790)+",
+        false
+    ],
+    "-104324": [
+        "anti-Xi_c(2790)-",
+        false
+    ],
+    "110551": [
+        "chi_b0(2P)",
+        true
+    ],
+    "110553": [
+        "h_b(2P)",
+        true
+    ],
+    "110555": [
+        "eta_b2(2D)",
+        "doodoo"
+    ],
+    "120553": [
+        "chi_b1(2P)",
+        true
+    ],
+    "120555": [
+        "Upsilon_2(2D)",
+        "doodoo"
+    ],
+    "130553": [
+        "Upsilon_1(2D)",
+        "doodoo"
+    ],
+    "200551": [
+        "eta_b(3S)",
+        "doodoo"
+    ],
+    "200553": [
+        "Upsilon(3S)",
+        true
+    ],
+    "200555": [
+        "chi_b2(3P)",
+        true
+    ],
+    "203312": [
+        "Xi(1690)-",
+        false
+    ],
+    "-203312": [
+        "anti-Xi(1690)+",
+        false
+    ],
+    "203316": [
+        "Xi(2030)-",
+        false
+    ],
+    "-203316": [
+        "anti-Xi(2030)+",
+        false
+    ],
+    "203322": [
+        "Xi(1690)0",
+        false
+    ],
+    "-203322": [
+        "anti-Xi(1690)0",
+        false
+    ],
+    "203326": [
+        "Xi(2030)0",
+        false
+    ],
+    "-203326": [
+        "anti-Xi(2030)0",
+        false
+    ],
+    "203338": [
+        "Omega(2250)-",
+        false
+    ],
+    "-203338": [
+        "anti-Omega(2250)+",
+        false
+    ],
+    "204126": [
+        "Lambda_c(2880)+",
+        false
+    ],
+    "-204126": [
+        "anti-Lambda_c(2880)-",
+        false
+    ],
+    "210551": [
+        "chi_b0(3P)",
+        "doodoo"
+    ],
+    "210553": [
+        "h_b(3P)",
+        "doodoo"
+    ],
+    "220553": [
+        "chi_b1(3P)",
+        true
+    ],
+    "300553": [
+        "Upsilon(4S)",
+        true
+    ],
+    "1000001": [
+        "unknown",
+        "doodoo"
+    ],
+    "-1000001": [
+        "unknown",
+        "doodoo"
+    ],
+    "1000002": [
+        "unknown",
+        "doodoo"
+    ],
+    "-1000002": [
+        "unknown",
+        "doodoo"
+    ],
+    "1000003": [
+        "unknown",
+        "doodoo"
+    ],
+    "-1000003": [
+        "unknown",
+        "doodoo"
+    ],
+    "1000004": [
+        "unknown",
+        "doodoo"
+    ],
+    "-1000004": [
+        "unknown",
+        "doodoo"
+    ],
+    "1000005": [
+        "unknown",
+        "doodoo"
+    ],
+    "-1000005": [
+        "unknown",
+        "doodoo"
+    ],
+    "1000006": [
+        "unknown",
+        "doodoo"
+    ],
+    "-1000006": [
+        "unknown",
+        "doodoo"
+    ],
+    "1000011": [
+        "unknown",
+        "doodoo"
+    ],
+    "-1000011": [
+        "unknown",
+        "doodoo"
+    ],
+    "1000012": [
+        "unknown",
+        "doodoo"
+    ],
+    "-1000012": [
+        "unknown",
+        "doodoo"
+    ],
+    "1000013": [
+        "unknown",
+        "doodoo"
+    ],
+    "-1000013": [
+        "unknown",
+        "doodoo"
+    ],
+    "1000014": [
+        "unknown",
+        "doodoo"
+    ],
+    "-1000014": [
+        "unknown",
+        "doodoo"
+    ],
+    "1000015": [
+        "unknown",
+        "doodoo"
+    ],
+    "-1000015": [
+        "unknown",
+        "doodoo"
+    ],
+    "1000016": [
+        "unknown",
+        "doodoo"
+    ],
+    "-1000016": [
+        "unknown",
+        "doodoo"
+    ],
+    "1000021": [
+        "unknown",
+        "doodoo"
+    ],
+    "1000022": [
+        "unknown",
+        "doodoo"
+    ],
+    "1000023": [
+        "unknown",
+        "doodoo"
+    ],
+    "1000024": [
+        "unknown",
+        "doodoo"
+    ],
+    "-1000024": [
+        "unknown",
+        "doodoo"
+    ],
+    "1000025": [
+        "unknown",
+        "doodoo"
+    ],
+    "1000035": [
+        "unknown",
+        "doodoo"
+    ],
+    "1000037": [
+        "unknown",
+        "doodoo"
+    ],
+    "-1000037": [
+        "unknown",
+        "doodoo"
+    ],
+    "1000039": [
+        "unknown",
+        "doodoo"
+    ],
+    "2000001": [
+        "unknown",
+        "doodoo"
+    ],
+    "-2000001": [
+        "unknown",
+        "doodoo"
+    ],
+    "2000002": [
+        "unknown",
+        "doodoo"
+    ],
+    "-2000002": [
+        "unknown",
+        "doodoo"
+    ],
+    "2000003": [
+        "unknown",
+        "doodoo"
+    ],
+    "-2000003": [
+        "unknown",
+        "doodoo"
+    ],
+    "2000004": [
+        "unknown",
+        "doodoo"
+    ],
+    "-2000004": [
+        "unknown",
+        "doodoo"
+    ],
+    "2000005": [
+        "unknown",
+        "doodoo"
+    ],
+    "-2000005": [
+        "unknown",
+        "doodoo"
+    ],
+    "2000006": [
+        "unknown",
+        "doodoo"
+    ],
+    "-2000006": [
+        "unknown",
+        "doodoo"
+    ],
+    "2000011": [
+        "unknown",
+        "doodoo"
+    ],
+    "-2000011": [
+        "unknown",
+        "doodoo"
+    ],
+    "2000012": [
+        "unknown",
+        "doodoo"
+    ],
+    "-2000012": [
+        "unknown",
+        "doodoo"
+    ],
+    "2000013": [
+        "unknown",
+        "doodoo"
+    ],
+    "-2000013": [
+        "unknown",
+        "doodoo"
+    ],
+    "2000014": [
+        "unknown",
+        "doodoo"
+    ],
+    "-2000014": [
+        "unknown",
+        "doodoo"
+    ],
+    "2000015": [
+        "unknown",
+        "doodoo"
+    ],
+    "-2000015": [
+        "unknown",
+        "doodoo"
+    ],
+    "2000016": [
+        "unknown",
+        "doodoo"
+    ],
+    "-2000016": [
+        "unknown",
+        "doodoo"
+    ],
+    "3000111": [
+        "unknown",
+        "doodoo"
+    ],
+    "3000113": [
+        "unknown",
+        "doodoo"
+    ],
+    "3000211": [
+        "unknown",
+        "doodoo"
+    ],
+    "-3000211": [
+        "unknown",
+        "doodoo"
+    ],
+    "3000213": [
+        "unknown",
+        "doodoo"
+    ],
+    "-3000213": [
+        "unknown",
+        "doodoo"
+    ],
+    "3000221": [
+        "unknown",
+        "doodoo"
+    ],
+    "3000223": [
+        "unknown",
+        "doodoo"
+    ],
+    "3000331": [
+        "unknown",
+        "doodoo"
+    ],
+    "3100021": [
+        "unknown",
+        "doodoo"
+    ],
+    "4000001": [
+        "unknown",
+        "doodoo"
+    ],
+    "-4000001": [
+        "unknown",
+        "doodoo"
+    ],
+    "4000002": [
+        "unknown",
+        "doodoo"
+    ],
+    "-4000002": [
+        "unknown",
+        "doodoo"
+    ],
+    "4000011": [
+        "unknown",
+        "doodoo"
+    ],
+    "-4000011": [
+        "unknown",
+        "doodoo"
+    ],
+    "4000012": [
+        "unknown",
+        "doodoo"
+    ],
+    "-4000012": [
+        "unknown",
+        "doodoo"
+    ],
+    "5000039": [
+        "unknown",
+        "doodoo"
+    ],
+    "9000111": [
+        "a_00",
+        true
+    ],
+    "9000113": [
+        "pi_1(1400)0",
+        true
+    ],
+    "9000115": [
+        "a_2(1700)0",
+        true
+    ],
+    "9000117": [
+        "unknown",
+        "doodoo"
+    ],
+    "9000211": [
+        "a_0+",
+        false
+    ],
+    "-9000211": [
+        "a_0-",
+        false
+    ],
+    "9000213": [
+        "pi_1(1400)+",
+        false
+    ],
+    "-9000213": [
+        "pi_1(1400)-",
+        false
+    ],
+    "9000215": [
+        "a_2(1700)+",
+        false
+    ],
+    "-9000215": [
+        "a_2(1700)-",
+        false
+    ],
+    "9000217": [
+        "unknown",
+        "doodoo"
+    ],
+    "-9000217": [
+        "unknown",
+        "doodoo"
+    ],
+    "9000221": [
+        "sigma_0",
+        true
+    ],
+    "9000223": [
+        "unknown",
+        "doodoo"
+    ],
+    "9000225": [
+        "unknown",
+        "doodoo"
+    ],
+    "9000229": [
+        "unknown",
+        "doodoo"
+    ],
+    "9000311": [
+        "unknown",
+        false
+    ],
+    "-9000311": [
+        "unknown",
+        false
+    ],
+    "9000313": [
+        "unknown",
+        false
+    ],
+    "-9000313": [
+        "unknown",
+        false
+    ],
+    "9000315": [
+        "unknown",
+        "doodoo"
+    ],
+    "-9000315": [
+        "unknown",
+        "doodoo"
+    ],
+    "9000319": [
+        "unknown",
+        "doodoo"
+    ],
+    "-9000319": [
+        "unknown",
+        "doodoo"
+    ],
+    "9000321": [
+        "unknown",
+        false
+    ],
+    "-9000321": [
+        "unknown",
+        false
+    ],
+    "9000323": [
+        "unknown",
+        false
+    ],
+    "-9000323": [
+        "unknown",
+        false
+    ],
+    "9000325": [
+        "unknown",
+        false
+    ],
+    "-9000325": [
+        "unknown",
+        false
+    ],
+    "9000329": [
+        "unknown",
+        false
+    ],
+    "-9000329": [
+        "unknown",
+        false
+    ],
+    "9000443": [
+        "psi(4040)",
+        true
+    ],
+    "9000553": [
+        "Upsilon(5S)",
+        true
+    ],
+    "9010111": [
+        "pi(1800)0",
+        true
+    ],
+    "9010113": [
+        "pi_1(1600)0",
+        true
+    ],
+    "9010117": [
+        "unknown",
+        "doodoo"
+    ],
+    "9010211": [
+        "pi(1800)+",
+        false
+    ],
+    "-9010211": [
+        "pi(1800)-",
+        false
+    ],
+    "9010213": [
+        "pi_1(1600)+",
+        false
+    ],
+    "-9010213": [
+        "pi_1(1600)-",
+        false
+    ],
+    "9010217": [
+        "unknown",
+        "doodoo"
+    ],
+    "-9010217": [
+        "unknown",
+        "doodoo"
+    ],
+    "9010221": [
+        "f_0",
+        true
+    ],
+    "9010223": [
+        "unknown",
+        "doodoo"
+    ],
+    "9010225": [
+        "unknown",
+        "doodoo"
+    ],
+    "9010229": [
+        "unknown",
+        "doodoo"
+    ],
+    "9010311": [
+        "unknown",
+        "doodoo"
+    ],
+    "-9010311": [
+        "unknown",
+        "doodoo"
+    ],
+    "9010315": [
+        "K_2*(1980)0",
+        false
+    ],
+    "-9010315": [
+        "anti-K_2*(1980)0",
+        false
+    ],
+    "9010317": [
+        "unknown",
+        "doodoo"
+    ],
+    "-9010317": [
+        "unknown",
+        "doodoo"
+    ],
+    "9010321": [
+        "unknown",
+        false
+    ],
+    "-9010321": [
+        "unknown",
+        false
+    ],
+    "9010325": [
+        "K_2*(1980)+",
+        false
+    ],
+    "-9010325": [
+        "K_2*(1980)-",
+        false
+    ],
+    "9010327": [
+        "unknown",
+        false
+    ],
+    "-9010327": [
+        "unknown",
+        false
+    ],
+    "9010443": [
+        "psi(4160)",
+        true
+    ],
+    "9010553": [
+        "Upsilon(11020)",
+        true
+    ],
+    "9020113": [
+        "unknown",
+        true
+    ],
+    "9020213": [
+        "unknown",
+        false
+    ],
+    "-9020213": [
+        "unknown",
+        false
+    ],
+    "9020221": [
+        "eta(1405)",
+        true
+    ],
+    "9020225": [
+        "unknown",
+        "doodoo"
+    ],
+    "9020311": [
+        "unknown",
+        "doodoo"
+    ],
+    "-9020311": [
+        "unknown",
+        "doodoo"
+    ],
+    "9020315": [
+        "unknown",
+        "doodoo"
+    ],
+    "-9020315": [
+        "unknown",
+        "doodoo"
+    ],
+    "9020321": [
+        "unknown",
+        false
+    ],
+    "-9020321": [
+        "unknown",
+        false
+    ],
+    "9020325": [
+        "unknown",
+        false
+    ],
+    "-9020325": [
+        "unknown",
+        false
+    ],
+    "9020443": [
+        "psi(4415)",
+        true
+    ],
+    "9030113": [
+        "unknown",
+        "doodoo"
+    ],
+    "9030213": [
+        "unknown",
+        "doodoo"
+    ],
+    "-9030213": [
+        "unknown",
+        "doodoo"
+    ],
+    "9030221": [
+        "f_0(1500)",
+        true
+    ],
+    "9030225": [
+        "unknown",
+        "doodoo"
+    ],
+    "9040113": [
+        "unknown",
+        "doodoo"
+    ],
+    "9040213": [
+        "unknown",
+        "doodoo"
+    ],
+    "-9040213": [
+        "unknown",
+        "doodoo"
+    ],
+    "9040221": [
+        "unknown",
+        "doodoo"
+    ],
+    "9040225": [
+        "unknown",
+        "doodoo"
+    ],
+    "9042413": [
+        "Z(4430)+",
+        "doodoo"
+    ],
+    "-9042413": [
+        "Z(4430)-",
+        "doodoo"
+    ],
+    "9050221": [
+        "unknown",
+        true
+    ],
+    "9050225": [
+        "f_2(1950)",
+        true
+    ],
+    "9060221": [
+        "unknown",
+        "doodoo"
+    ],
+    "9060225": [
+        "f_2(2010)",
+        true
+    ],
+    "9070221": [
+        "unknown",
+        "doodoo"
+    ],
+    "9070225": [
+        "unknown",
+        "doodoo"
+    ],
+    "9080221": [
+        "unknown",
+        "doodoo"
+    ],
+    "9080225": [
+        "f_2(2300)",
+        true
+    ],
+    "9090221": [
+        "unknown",
+        "doodoo"
+    ],
+    "9090225": [
+        "f_2(2340)",
+        true
+    ],
+    "9910445": [
+        "X_2(3872)",
+        "doodoo"
+    ],
+    "9920443": [
+        "X_1(3872)",
+        "doodoo"
+    ],
+    "-99000000": [
+        "unknown",
+        "doodoo"
+    ],
+    "480000000": [
+        "geantino",
+        "doodoo"
+    ],
+    "1000010020": [
+        "deuteron",
+        false
+    ],
+    "-1000010020": [
+        "anti-deuteron",
+        false
+    ],
+    "1000010030": [
+        "triton",
+        false
+    ],
+    "-1000010030": [
+        "anti-triton",
+        false
+    ],
+    "-1000020030": [
+        "anti-He3",
+        false
+    ],
+    "1000020030": [
+        "He3",
+        false
+    ],
+    "-1000020040": [
+        "anti-alpha",
+        false
+    ],
+    "1000020040": [
+        "alpha",
+        false
+    ],
+    "1000030070": [
+        "unknown",
+        false
+    ],
+    "1000040080": [
+        "unknown",
+        false
+    ],
+    "1000040090": [
+        "unknown",
+        false
+    ],
+    "1000040100": [
+        "unknown",
+        false
+    ],
+    "1000050100": [
+        "unknown",
+        false
+    ],
+    "1000050110": [
+        "unknown",
+        false
+    ],
+    "1000050120": [
+        "unknown",
+        false
+    ],
+    "1000060120": [
+        "unknown",
+        false
+    ],
+    "1000060130": [
+        "unknown",
+        false
+    ],
+    "1000060140": [
+        "unknown",
+        false
+    ],
+    "1000070140": [
+        "unknown",
+        false
+    ],
+    "1000070150": [
+        "unknown",
+        false
+    ],
+    "1000070160": [
+        "unknown",
+        false
+    ],
+    "1000080160": [
+        "unknown",
+        false
+    ],
+    "1000080170": [
+        "unknown",
+        false
+    ],
+    "1000080180": [
+        "unknown",
+        false
+    ],
+    "1000080190": [
+        "unknown",
+        false
+    ],
+    "1000090190": [
+        "unknown",
+        false
+    ],
+    "1000100220": [
+        "unknown",
+        false
+    ],
+    "1000100230": [
+        "unknown",
+        false
+    ],
+    "1000110240": [
+        "unknown",
+        false
+    ],
+    "1000120240": [
+        "unknown",
+        false
+    ],
+    "1000120250": [
+        "unknown",
+        false
+    ],
+    "1000120260": [
+        "unknown",
+        false
+    ],
+    "1000120270": [
+        "unknown",
+        false
+    ],
+    "1000130270": [
+        "unknown",
+        false
+    ],
+    "1000130280": [
+        "unknown",
+        false
+    ],
+    "1000140280": [
+        "unknown",
+        false
+    ],
+    "1000140290": [
+        "unknown",
+        false
+    ],
+    "1000140300": [
+        "unknown",
+        false
+    ],
+    "1000150310": [
+        "unknown",
+        false
+    ],
+    "1000170390": [
+        "unknown",
+        false
+    ],
+    "1000170400": [
+        "unknown",
+        false
+    ],
+    "1000180360": [
+        "unknown",
+        false
+    ],
+    "1000180400": [
+        "unknown",
+        false
+    ],
+    "1000240500": [
+        "unknown",
+        false
+    ],
+    "1000240520": [
+        "unknown",
+        false
+    ],
+    "1000240530": [
+        "unknown",
+        false
+    ],
+    "1000240540": [
+        "unknown",
+        false
+    ],
+    "1000250550": [
+        "unknown",
+        false
+    ],
+    "1000260540": [
+        "unknown",
+        false
+    ],
+    "1000260560": [
+        "unknown",
+        false
+    ],
+    "1000260570": [
+        "unknown",
+        false
+    ],
+    "1000260590": [
+        "unknown",
+        false
+    ],
+    "1000280580": [
+        "unknown",
+        false
+    ],
+    "1000280600": [
+        "unknown",
+        false
+    ],
+    "1000280610": [
+        "unknown",
+        false
+    ],
+    "1000280620": [
+        "unknown",
+        false
+    ],
+    "1000280630": [
+        "unknown",
+        false
+    ],
+    "1000280640": [
+        "unknown",
+        false
+    ],
+    "1000290630": [
+        "unknown",
+        false
+    ],
+    "1000290650": [
+        "unknown",
+        false
+    ],
+    "1000420920": [
+        "unknown",
+        false
+    ],
+    "1000420950": [
+        "unknown",
+        false
+    ],
+    "1000420960": [
+        "unknown",
+        false
+    ],
+    "1000420970": [
+        "unknown",
+        false
+    ],
+    "1000420980": [
+        "unknown",
+        false
+    ],
+    "1000421000": [
+        "unknown",
+        false
+    ],
+    "1000461080": [
+        "unknown",
+        false
+    ],
+    "1000791970": [
+        "unknown",
+        false
+    ],
+    "1000822040": [
+        "unknown",
+        false
+    ],
+    "1000822060": [
+        "unknown",
+        false
+    ],
+    "1000822070": [
+        "unknown",
+        false
+    ],
+    "1000822080": [
+        "unknown",
+        false
+    ],
+    "9940103": [
+        "psi(2S)[3S1(8)]",
+        true
+    ],
+    "9940003": [
+        "J/psi[3S1(8)]",
+        true
+    ],
+    "9940023": [
+        "chi_1c[3S1(8)]",
+        true
+    ],
+    "9940005": [
+        "chi_2c[3S1(8)]",
+        true
+    ],
+    "9942003": [
+        "J/psi[3PJ(8)]",
+        true
+    ],
+    "9941003": [
+        "J/psi[1S0(8)]",
+        true
+    ],
+    "9950003": [
+        "Upsilon[3S1(8)]",
+        true
+    ],
+    "9940011": [
+        "chi_0c[3S1(8)]",
+        true
+    ],
+    "9941103": [
+        "psi(2S)[1S0(8)]",
+        true
+    ],
+    "9942103": [
+        "psi(2S)[3PJ(8)]",
+        true
+    ],
+    "30221": [
+        "f'_0",
+        true
+    ]
+}
